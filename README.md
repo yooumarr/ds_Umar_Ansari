@@ -41,8 +41,8 @@ The repository is organized as follows:
 
 ## Google Colab Links
 
-1. **Notebook 1:** [Open in Colab]([https://colab.research.google.com/drive/<notebook_1_link>](https://colab.research.google.com/drive/1IBEWwbz3a-_H-E2TTR4k2Y5rc3vOyxWM?usp=sharing))  
-2. **Notebook 2:** [Open in Colab]([https://colab.research.google.com/drive/<notebook_2_link>](https://colab.research.google.com/drive/1azjMJw3LvUlHDm4l0qpbuHPLK_7puqle?usp=sharing))  
+1. **Notebook 1:** [Open in Colab](https://colab.research.google.com/drive/1IBEWwbz3a-_H-E2TTR4k2Y5rc3vOyxWM?usp=sharing)  
+2. **Notebook 2:** [Open in Colab](https://colab.research.google.com/drive/1azjMJw3LvUlHDm4l0qpbuHPLK_7puqle?usp=sharing)  
 
 
 ---
